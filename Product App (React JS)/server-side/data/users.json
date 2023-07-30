@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "username" : "Rikomuhammad",
+        "email" : "riko@gmail.com",
+        "password" : "12345",
+        "role" : "admin",
+        "phoneNumber" : "08123456568",
+        "address" : "Jalan Veteran No. 08"
+    },
+    {
+        "id" : 2,
+        "username" : "Jiso",
+        "email" : "jiso@gmail.com",
+        "password" : "12345",
+        "role" : "admin",
+        "phoneNumber" : "081234565987",
+        "address" : "Jalan Veteran No. 09"
+    }
+]

@@ -1,0 +1,15 @@
+FROM node:18.16.0
+
+WORKDIR /services/app
+
+ENV PORT=4003
+
+COPY ["package.json","package-lock.json","/services/app"]
+
+RUN npm install 
+
+RUN npm install -g nodemon
+
+COPY ./ ./
+
+CMD ["npm", "run", "start"]

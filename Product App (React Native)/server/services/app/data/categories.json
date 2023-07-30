@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sandals",
+        "image" : "https://i.ibb.co/YLdKKhY/sandals.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Bags",
+        "image" : "https://i.ibb.co/NmFTtgf/bags.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Shirts",
+        "image" : "https://i.ibb.co/bHpGTnn/shirts.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Pants",
+        "image" : "https://i.ibb.co/pbj95S5/pants.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Jatcets",
+        "image" : "https://i.ibb.co/RhvwrbS/jacket.png"
+    },
+    {
+        "id" : 6,
+        "name" : "Belts",
+        "image" : "https://i.ibb.co/SwHZL2g/belts.png"
+    }
+]

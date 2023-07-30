@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Izmir Sandal",
+        "slug": "Izmir-Sandal",
+        "description": "Sandal in suede goatskin and woolskin with iconic H cut-out. An iconic Hermès style, this silhouette is an essential piece in every wardrobe. Made in Italy. We recommend sizing up a half size for this model.",
+        "price": "16000000",
+        "mainImg": "https://assets.hermes.com/is/image/hermesproduct/izmir-sandal--231920ZH2P-worn-1-0-0-800-800_g.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id" : 2,
+        "name" : "Genius Sandal",
+        "slug" : "Genius-Sandal",
+        "description" : "Techno-sandal in suede goatskin with anatomical rubber sole and adjustable strap. A sleek design for a comfortable casual look. Made in Italy.",
+        "price" : 12449000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/genius-sandal--231696ZHV1-front-wm-1-0-0-800-800_g.jpg",
+        "categoryId" : 1,
+        "authorId" : 1
+    },
+    {
+        "id" : 3,
+        "name" : "Electric Sandal",
+        "slug" : "Electric-Sandal",
+        "description" : "Sandal in calfskin. Light sole with contrasting design for a dynamic and modern look. Made in Italy",
+        "price" : 12449000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/electric-sandal--222860ZH90-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 1,
+        "authorId" : 1
+    },
+    {
+        "id": 4,
+        "name": "Hermes Allback backpack",
+        "slug": "Hermes-Allback-backpack",
+        "description": "Backpack in Bivouac canvas and Swift calfskin with adjustable straps, leather handle,zipped main compartment, interior back laptop compartment, two exterior back pockets, hidden side pocket with leather cord and snap hook for keys, signature H leather patch and palladium-plated hardware. Made in France",
+        "price": 74775000,
+        "mainImg": "https://assets.hermes.com/is/image/hermesproduct/hermes-allback-backpack--083582CKAC-worn-1-0-0-800-800_g.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id" : 5,
+        "name" : "Etriviere Shopping Arctique bag",
+        "slug" : "Etriviere-Shopping-Arctique-bag",
+        "description" : "Shopping bag in Arctique sheepskin and Evergrain calfskin with adjustable strap and palladium plated hardware. Made in France",
+        "price" : 135578000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/etriviere-shopping-arctique-bag--078529CKAA-front-1-300-0-800-800_g.jpg",
+        "categoryId" : 2,
+        "authorId" : 1
+    },
+    {
+        "id" : 6,
+        "name" : "Etriviere Pocket 27 bag",
+        "slug" : "Etriviere-Pocket-27-bag",
+        "description" : "Bag in Goeland canvas, Hunter cowhide and Swift calfskin with adjustable hand strap, two interior and exterior pockets and palladium-plated hardware. Made in France",
+        "price" : 59271000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/etriviere-pocket-27-bag--082769CKAE-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 2,
+        "authorId" : 1
+    },
+    {
+        "id": 7,
+        "name": "Hooded sporty fit shirt",
+        "slug": "Hooded-sporty-fit-shirt",
+        "description": "Hooded sporty fit shirt in compact cotton poplin with Poche en cavale detail (100% cotton). Hood with drawstring. Pure mother-of-pearl buttons and plain cuffs with palladium-plated Clou de Selle buttons. Front pocket. Made in France. This piece runs true-to-size. Length: 29.9",
+        "price": 23338000,
+        "mainImg": "https://assets.hermes.com/is/image/hermesproduct/hooded-sporty-fit-shirt--356140H2YW-worn-1-0-0-800-800_g.jpg",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "id" : 8,
+        "name" : "Tatersale Remix Bis boxy fit polo shirt",
+        "slug" : "Tatersale-Remix-Bis-boxy-fit-polo-shirt",
+        "description" : "Loose fitting boxy fit shirt in cotton and Tatersale Remix Bis print (100% cotton. Polo neckline. Pure mother-of-pearl buttons. Short sleeves. Straight cut bottom. Made in France",
+        "price" : 22228000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/tatersale-remix-bis-boxy-fit-polo-shirt--356600HM4F-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 3,
+        "authorId" : 1
+    },
+    {
+        "id" : 9,
+        "name" : "Fitted shirt with flexible collar",
+        "slug" : "Fitted-shirt-with-flexible-collar",
+        "description" : "Fitted shirt in compact cotton poplin (100% cotton). Flexible collar. Pure mother-of-pearl buttons and plain cuffs with palladium-plated Clou de Selle buttons. Made in France",
+        "price" : 8891000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/fitted-shirt-with-flexible-collar--356000H201-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 3,
+        "authorId" : 1
+    },
+    {
+        "id": 10,
+        "name": "Straight cut jeans",
+        "slug": "Straight-cut-jeans",
+        "description": "Straight cut jeans in stretch cotton twill (97% cotton and 3% elastane). Calfskin jacron detail. Made in France. This piece runs true-to-size.",
+        "price": 12136000,
+        "mainImg": "https://assets.hermes.com/is/image/hermesproduct/straight-cut-jeans--355400H32P-worn-1-0-0-800-800_g.jpg",
+        "categoryId": 4,
+        "authorId": 2
+    },
+    {
+        "id" : 11,
+        "name" : "Run H shorts",
+        "slug" : "Run-H-shorts",
+        "description" : "Shorts in cotton with Run H detail (100% cotton). Elastic waistband with drawstring. Reflective Toilovent piping. Made in Italy. This piece runs true-to-size.",
+        "price" : 12432000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/run-h-shorts--357770HA1O-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 4,
+        "authorId" : 1
+    },
+    {
+        "id" : 12,
+        "name" : "Sevres cargo pants",
+        "slug" : "Sevres-cargo-pants",
+        "description" : "Straight cut pants in stretch cotton twill (97% cotton and 3% elastane). Buttoned side pocket and zipped side pocket. Back pockets. Made in Italy. This piece runs true-to-size.",
+        "price" : 16650000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/sevres-cargo-pants--355320H34G-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 4,
+        "authorId" : 1
+    },
+    {
+        "id": 13,
+        "name": "Icones au Carre denim jacket",
+        "slug": "Icones-au-Carre-denim-jacket",
+        "description": "Buttoned jacket in denim with Icones au Carre detail (100% cotton). Front buttoned flap pockets. Pegase embroidery detail and 4 patches on the side in jacquard, with embroidery, silk and rubber inspired by Hermès' emblematic designs. Made in France. This piece runs true-to-size.",
+        "price": 66971000,
+        "mainImg": "https://assets.hermes.com/is/image/hermesproduct/icones-au-carre-denim-jacket--352180HM60-worn-1-0-0-800-800_g.jpg",
+        "categoryId": 5,
+        "authorId": 2
+    },
+    {
+        "id" : 14,
+        "name" : "Zipped lambskin rib-trim jacket",
+        "slug" : "Zipped-lambskin-rib-trim-jacket",
+        "description" : "Zipped rib-trim jacket in lambskin (100% lambskin). Rib-trim collar and jacket bottom. Zipped front pocket. Zipped side pockets. Knit and water-repellent technical Toilovent lining. Made in France. This piece runs true-to-size.",
+        "price" : 195363000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/zipped-lambskin-rib-trim-jacket--353010HA2P-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 5,
+        "authorId" : 1
+    },
+    {
+        "id" : 15,
+        "name" : "Zipped rib-trim jacket",
+        "slug" : "Zipped-rib-trim-jacket",
+        "description" : "Zipped rib-trim jacket in givre technical fabric (100% polyamide). Rib-trim collar, cuffs and jacket bottom. Two-way zip. Buttoned zipped side pockets. Made in France. This piece runs true-to-size.",
+        "price" : 66971000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/zipped-rib-trim-jacket--352820HK0S-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 5,
+        "authorId" : 1
+    },
+    {
+        "id" : 16,
+        "name" : "Herbier perfore straight cut calfskin jacket",
+        "slug" : "Herbier-perfore-straight-cut-calfskin-jacket",
+        "description" : "Zipped straight cut jacket in sport calfskin with Herbier perfore detail (100% calfskin). Two-way zip. Zipped side pockets. Perforated colorful Herbier motif on the sides. Made in France. This piece runs true-to-size.",
+        "price" : 214668000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/herbier-perfore-straight-cut-calfskin-jacket--353160HC11-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 5,
+        "authorId" : 1
+    },
+    {
+        "id": 17,
+        "name": "Quizz H2O belt buckle & Reversible leather strap 38 mm",
+        "slug": "Quizz-H2O-belt-buckle-&-Reversible-leather-strap-38-mm",
+        "description": "Belt buckle in stainless steel.Made in France & Reversible leather strap in Box 135 and Togo calfskin. Made in France Width: 1.5",
+        "price": 14503000,
+        "mainImg": "https://assets.hermes.com/is/image/hermesproduct/quizz-h2o-belt-buckle-reversible-leather-strap-38mm--beltkit-38-077971CAAE_composite_2-010498UJJ4_front_1-300-0-800-800_g.jpg",
+        "categoryId": 6,
+        "authorId": 1
+    },
+    {
+        "id" : 18,
+        "name" : "Brush belt buckle & Reversible leather strap 32 mm",
+        "slug" : "Brush-belt-buckle-&-Reversible-leather-strap-32-mm",
+        "description" : "Belt buckle in lacquered brushed palladium-plated metal. Bold and colorful brushstrokes adorn this H buckle. Made in France & Reversible leather strap in Epsom calfskin. Width: 1.25",
+        "price" : 13171000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/brush-belt-buckle-reversible-leather-strap-32mm--beltkit-32-075394CABC_composite_2-010408CBI7_front_1-300-0-800-800_g.jpg",
+        "categoryId" : 6,
+        "authorId" : 1
+    },
+    {
+        "id" : 19,
+        "name" : "Nomade 40 belt",
+        "slug" : "Nomade-40-belt",
+        "description" : "Leather belt in Hunter cowhide with palladium-plated buckle. Perfect when matched with a relaxed and casual look, this model can also be worn knotted. Made in France. Width: 1.57",
+        "price" : 8436000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/nomade-40-belt--081697CKAA-worn-1-0-0-800-800_g.jpg",
+        "categoryId" : 6,
+        "authorId" : 1
+    },
+    {
+        "id" : 20,
+        "name" : "H au Carre belt buckle & Reversible leather strap 32 mm",
+        "slug" : "H-au-Carre-belt-buckle-&-Reversible-leather-strap-32-mm",
+        "description" : "Belt buckle in permabrass-plated metal. Made in France & Reversible leather strap in Box 135 and Togo calfskin. Made in France. Width: 1.26",
+        "price" : 12806000,
+        "mainImg" : "https://assets.hermes.com/is/image/hermesproduct/h-au-carre-belt-buckle-reversible-leather-strap-32mm--beltkit-32-073967CAAD_composite_2-066050CP2K_front_1-300-0-800-800_g.jpg",
+        "categoryId" : 6,
+        "authorId" : 1
+    }
+]
